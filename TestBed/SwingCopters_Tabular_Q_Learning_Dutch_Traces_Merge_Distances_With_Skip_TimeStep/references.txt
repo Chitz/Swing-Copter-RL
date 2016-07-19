@@ -1,0 +1,12 @@
+https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf 
+
+http://web.mst.edu/~gosavia/wsc2008.pdf
+
+http://link.springer.com/chapter/10.1007/978-3-642-27645-3_17
+
+https://papers.nips.cc/paper/5827-sample-complexity-of-episodic-fixed-horizon-reinforcement-learning.pdf
+
+The Logic of Adaptive Behavior: Knowledge Representation and Algorithms for ...
+By M. Van -> indefinite-horizon tasks
+
+https://papers.nips.cc/paper/5827-sample-complexity-of-episodic-fixed-horizon-reinforcement-learning.pdf 

@@ -1,0 +1,36 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<html xmlns:wb="http://open.weibo.com/wb">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+<title>Swing Copters</title>
+<link rel="stylesheet" type="text/css" href="/static/index.css">
+<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+</head>
+<body>
+
+<div id="container" class="bg1 bgmove">
+	<div id="trees"></div>
+	<div id="player"></div>
+	<div class="start"></div>
+	<h2 id="score">0</h2>
+	<div id="scorepan">
+		<div class="green">SCORE</div>
+		<div id="scorefinal">0</div>
+		<a href="javascript:void(0);" id="again">Start</a>
+		
+	</div>
+</div>
+{#<form id = "formid" method="POST" action="">{% csrf_token %}#}
+{#    <input type="submit" value="sign up">#}
+</form>
+<script type="text/javascript" src="/static/zepto.min.js"></script>
+<script type="text/javascript" src="/static/app.js"></script>
+
+<script type="text/javascript" src="/static/agent.js"></script>
+<script type="text/javascript" src="/static/index.js"></script>
+<script type="text/javascript" src="/static/environment.js"></script>
+</body>
+</html>

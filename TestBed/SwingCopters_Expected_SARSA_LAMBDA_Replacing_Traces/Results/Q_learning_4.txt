@@ -1,0 +1,35 @@
+reward = -1000, +1, epsilon = 0.1;
+        gamma = 0.9;
+        alpha = 0.2;
+
+[Log] Agent Object Initialized (agent.js, line 8)
+> Selected Element
+< <div id="container" class="bg1 bgmove">…</div> = $1
+[Log] GAME STOPPED CURRENT SCORE 1 BEST SCORE SO FAR 1 StepCount 1 totalScore 1 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 1 BEST SCORE SO FAR 1 StepCount 2 totalScore 2 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 0 BEST SCORE SO FAR 1 StepCount 3 totalScore 2 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 0 BEST SCORE SO FAR 1 StepCount 4 totalScore 2 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 0 BEST SCORE SO FAR 1 StepCount 5 totalScore 2 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 8 BEST SCORE SO FAR 8 StepCount 6 totalScore 10 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 2 BEST SCORE SO FAR 8 StepCount 7 totalScore 12 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 3 BEST SCORE SO FAR 8 StepCount 8 totalScore 15 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 0 BEST SCORE SO FAR 8 StepCount 9 totalScore 15 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 7 BEST SCORE SO FAR 8 StepCount 10 totalScore 22 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 0 BEST SCORE SO FAR 8 StepCount 11 totalScore 22 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 4 BEST SCORE SO FAR 8 StepCount 12 totalScore 26 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 5 BEST SCORE SO FAR 8 StepCount 13 totalScore 31 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 2 BEST SCORE SO FAR 8 StepCount 14 totalScore 33 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 1 BEST SCORE SO FAR 8 StepCount 15 totalScore 34 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 3 BEST SCORE SO FAR 8 StepCount 16 totalScore 37 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 1 BEST SCORE SO FAR 8 StepCount 17 totalScore 38 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 1 BEST SCORE SO FAR 8 StepCount 18 totalScore 39 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 0 BEST SCORE SO FAR 8 StepCount 19 totalScore 39 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 1 BEST SCORE SO FAR 8 StepCount 20 totalScore 40 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 0 BEST SCORE SO FAR 8 StepCount 21 totalScore 40 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 1 BEST SCORE SO FAR 8 StepCount 22 totalScore 41 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 0 BEST SCORE SO FAR 8 StepCount 23 totalScore 41 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 0 BEST SCORE SO FAR 8 StepCount 24 totalScore 41 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 0 BEST SCORE SO FAR 8 StepCount 25 totalScore 41 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 1 BEST SCORE SO FAR 8 StepCount 26 totalScore 42 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 0 BEST SCORE SO FAR 8 StepCount 27 totalScore 42 (index.js, line 239)
+[Log] GAME STOPPED CURRENT SCORE 4 BEST SCORE SO FAR 8 StepCount 28 totalScore 46 (index.js, line 239)
